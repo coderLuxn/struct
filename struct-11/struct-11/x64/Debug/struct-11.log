@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C语言\Visual Studio 2022\code\struct-11\struct-11\test.c(245,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C语言\Visual Studio 2022\code\struct-11\struct-11\test.c(245,9): message : 请考虑在格式字符串中使用“%zd”
+  struct-11.vcxproj -> D:\C语言\Visual Studio 2022\code\struct-11\x64\Debug\struct-11.exe
